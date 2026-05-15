@@ -7,16 +7,24 @@ const logos = [
     alt: "React",
   },
   {
-    src: "https://svgl.app/library/nextjs_logo_light.svg",
-    alt: "Next.js",
-  },
-  {
     src: "https://svgl.app/library/figma.svg",
     alt: "Figma",
   },
   {
     src: "https://svgl.app/library/github_wordmark_light.svg",
     alt: "GitHub",
+  },
+  {
+    src: "https://svgl.app/library/vercel_wordmark.svg",
+    alt: "Vercel",
+  },
+  {
+    src: "https://svgl.app/library/tailwindcss.svg",
+    alt: "Tailwind CSS",
+  },
+  {
+    src: "https://svgl.app/library/nodejs.svg",
+    alt: "Node.js",
   },
 ];
 
