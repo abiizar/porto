@@ -11,18 +11,6 @@ const logos = [
     alt: "Next.js",
   },
   {
-    src: "https://svgl.app/library/typescript.svg",
-    alt: "TypeScript",
-  },
-  {
-    src: "https://svgl.app/library/tailwindcss_wordmark_light.svg",
-    alt: "Tailwind CSS",
-  },
-  {
-    src: "https://svgl.app/library/nodejs_wordmark_light.svg",
-    alt: "Node.js",
-  },
-  {
     src: "https://svgl.app/library/figma.svg",
     alt: "Figma",
   },
