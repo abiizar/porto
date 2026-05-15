@@ -15,12 +15,12 @@ const logos = [
     alt: "TypeScript",
   },
   {
-    src: "https://img.logo.dev/tailwindcss.com?token=pk_D135g-FsQC2Z8n3o3oEtdQ&size=80&retina=true",
-    alt: "Tailwind Labs",
+    src: "https://svgl.app/library/tailwindcss_wordmark_light.svg",
+    alt: "Tailwind CSS",
   },
   {
-    src: "https://img.logo.dev/nodejs.org?token=pk_D135g-FsQC2Z8n3o3oEtdQ&size=80&retina=true",
-    alt: "Node",
+    src: "https://svgl.app/library/nodejs_wordmark_light.svg",
+    alt: "Node.js",
   },
   {
     src: "https://svgl.app/library/figma.svg",
