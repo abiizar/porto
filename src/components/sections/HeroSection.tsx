@@ -23,7 +23,7 @@ export const HeroSection = () => {
       </div>
 
       <div className="flex-1 flex lg:hidden flex-col items-center justify-center z-10 -mt-2 sm:-mt-4 md:-mt-6">
-        <FadeIn delay={0.6} y={30} className="w-[min(72vw,360px)] sm:w-[430px] md:w-[500px] pointer-events-none">
+        <FadeIn delay={0.6} y={30} className="w-[min(85vw,450px)] sm:w-[550px] md:w-[650px] pointer-events-none">
           <div className="pointer-events-auto flex justify-center">
             <Magnet padding={150} strength={3}>
               <img src="https://snapnot-r2-worker.yumtive.workers.dev/get/7d121daa-1703-404f-8206-53493d33372a/1778943728313_zouern_836ff1c9-6e45-4d6b-b873-1d44076dd8ea_removalai_preview.webp" alt="Abizar" className="w-full h-auto object-contain" />
@@ -62,7 +62,7 @@ export const HeroSection = () => {
         </FadeIn>
       </div>
 
-      <FadeIn delay={0.6} y={30} className="hidden lg:block absolute left-1/2 -translate-x-1/2 z-10 lg:w-[360px] xl:w-[420px] bottom-0 pointer-events-none">
+      <FadeIn delay={0.6} y={30} className="hidden lg:block absolute left-1/2 -translate-x-1/2 z-10 lg:w-[500px] xl:w-[600px] 2xl:w-[700px] bottom-0 pointer-events-none">
         <div className="pointer-events-auto flex justify-center">
           <Magnet padding={150} strength={3}>
             <img src="https://snapnot-r2-worker.yumtive.workers.dev/get/7d121daa-1703-404f-8206-53493d33372a/1778943728313_zouern_836ff1c9-6e45-4d6b-b873-1d44076dd8ea_removalai_preview.webp" alt="Abizar" className="w-full h-auto object-contain" />
