@@ -62,7 +62,7 @@ export const HeroSection = () => {
         </FadeIn>
       </div>
 
-      <FadeIn delay={0.6} y={30} className="hidden lg:block absolute left-1/2 -translate-x-1/2 z-10 lg:w-[420px] xl:w-[500px] 2xl:w-[580px] bottom-0 pointer-events-none">
+      <FadeIn delay={0.6} y={30} className="hidden lg:block absolute left-1/2 -translate-x-1/2 z-10 lg:w-[360px] xl:w-[440px] 2xl:w-[520px] bottom-0 pointer-events-none">
         <div className="pointer-events-auto flex justify-center">
           <Magnet padding={150} strength={3}>
             <img src="https://snapnot-r2-worker.yumtive.workers.dev/get/7d121daa-1703-404f-8206-53493d33372a/1778943728313_zouern_836ff1c9-6e45-4d6b-b873-1d44076dd8ea_removalai_preview.webp" alt="Abizar" className="w-full h-auto object-contain" />
