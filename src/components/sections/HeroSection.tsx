@@ -26,7 +26,7 @@ export const HeroSection = () => {
         <FadeIn delay={0.6} y={30} className="w-[min(72vw,360px)] sm:w-[430px] md:w-[500px] pointer-events-none">
           <div className="pointer-events-auto flex justify-center">
             <Magnet padding={150} strength={3}>
-              <img src="https://snapnot-r2-worker.yumtive.workers.dev/get/b7f0a7e3-8b1e-41f8-a8ac-907c291869a8/1778935892533_7kf9k5_herosectionporto.webp" alt="Abizar" className="w-full h-auto object-contain" />
+              <img src="https://snapnot-r2-worker.yumtive.workers.dev/get/7d121daa-1703-404f-8206-53493d33372a/1778943728313_zouern_836ff1c9-6e45-4d6b-b873-1d44076dd8ea_removalai_preview.webp" alt="Abizar" className="w-full h-auto object-contain" />
             </Magnet>
           </div>
         </FadeIn>
@@ -65,7 +65,7 @@ export const HeroSection = () => {
       <FadeIn delay={0.6} y={30} className="hidden lg:block absolute left-1/2 -translate-x-1/2 z-10 lg:w-[360px] xl:w-[420px] bottom-0 pointer-events-none">
         <div className="pointer-events-auto flex justify-center">
           <Magnet padding={150} strength={3}>
-            <img src="https://snapnot-r2-worker.yumtive.workers.dev/get/b7f0a7e3-8b1e-41f8-a8ac-907c291869a8/1778935892533_7kf9k5_herosectionporto.webp" alt="Abizar" className="w-full h-auto object-contain" />
+            <img src="https://snapnot-r2-worker.yumtive.workers.dev/get/7d121daa-1703-404f-8206-53493d33372a/1778943728313_zouern_836ff1c9-6e45-4d6b-b873-1d44076dd8ea_removalai_preview.webp" alt="Abizar" className="w-full h-auto object-contain" />
           </Magnet>
         </div>
       </FadeIn>
